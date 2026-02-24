@@ -64,7 +64,7 @@
               </div>
               <div class="info-content">
                 <h4>Location</h4>
-                <p>482 Pine Street, Seattle, Washington 98101</p>
+                <p>Hong Kong </p>
               </div>
             </div>
           </div>
@@ -76,8 +76,8 @@
               </div>
               <div class="info-content">
                 <h4>Phone &amp; Email</h4>
-                <p>+1 (206) 555-0192</p>
-                <p>connect@example.com</p>
+                <p>+1 778-889-3359</p>
+                <p>b2bin@got-hk.com</p>
               </div>
             </div>
           </div>
