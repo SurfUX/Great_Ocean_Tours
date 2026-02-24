@@ -22,11 +22,11 @@
         <div class="col-lg-2 col-md-3 footer-links">
           <h4>Quick Links</h4>
           <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about.html">About Us</a></li>
-            <li><a href="tours.html">Destinations</a></li>
-            <li><a href="services.html">Services</a></li>
-            <li><a href="contact.html">Contact</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="about.php">About Us</a></li>
+            <li><a href="location.php">Destinations</a></li>
+            <!-- <li><a href="services.php">Services</a></li> -->
+            <li><a href="contact.php">Contact</a></li>
           </ul>
         </div>
 
@@ -34,11 +34,11 @@
         <div class="col-lg-2 col-md-3 footer-links">
           <h4>Our Services</h4>
           <ul>
-            <li><a href="#">Guided Tours</a></li>
-            <li><a href="#">Airport Transfers</a></li>
-            <li><a href="#">Custom Travel Packages</a></li>
-            <li><a href="#">Group Tours</a></li>
-            <li><a href="#">Hotel & Transport Booking</a></li>
+            <li><a href="contact.php">Guided Tours</a></li>
+            <li><a href="contact.php">Airport Transfers</a></li>
+            <li><a href="contact.php">Custom Travel Packages</a></li>
+            <li><a href="contact.php">Group Tours</a></li>
+            <li><a href="contact.php">Hotel & Transport Booking</a></li>
           </ul>
         </div>
 
@@ -46,11 +46,11 @@
         <div class="col-lg-2 col-md-3 footer-links">
           <h4>Destinations</h4>
           <ul>
-            <li><a href="#">Hong Kong</a></li>
-            <li><a href="#">China</a></li>
-            <li><a href="#">Philippines</a></li>
+            
+            <li><a href="https://gochinaholidays.com/">China</a></li>
+            <li><a href="https://gophilippinesholiday.com/">Philippines</a></li>
             <li><a href="#">Indian Subcontinent</a></li>
-            <li><a href="#">Custom Worldwide Trips</a></li>
+            
           </ul>
         </div>
 
@@ -58,11 +58,11 @@
         <div class="col-lg-2 col-md-3 footer-links">
           <h4>Company</h4>
           <ul>
-            <li><a href="#">Why Choose Us</a></li>
-            <li><a href="#">Travel Policies</a></li>
-            <li><a href="#">Customer Reviews</a></li>
-            <li><a href="#">FAQs</a></li>
-            <li><a href="#">Terms & Privacy</a></li>
+            <li><a href="contact.php">Why Choose Us</a></li>
+            <li><a href="contact.php">Travel Policies</a></li>
+            <li><a href="contact.php">Customer Reviews</a></li>
+            <li><a href="contact.php">FAQs</a></li>
+            <li><a href="contact.php">Terms & Privacy</a></li>
           </ul>
         </div>
 
