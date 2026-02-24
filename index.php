@@ -125,7 +125,7 @@
             <div class="col-lg-4 col-md-4"
               data-aos="fade-up"
               data-aos-delay="100">
-              <a href="https://surfux.com" class="text-decoration-none">
+              <a href="https://gochinaholidays.com/" class="text-decoration-none">
                 <div class="facility-card">
                   <div class="facility-image">
                     <img
@@ -144,7 +144,7 @@
             <div class="col-lg-4 col-md-4"
               data-aos="fade-up"
               data-aos-delay="100">
-              <a href="https://surfux.com" class="text-decoration-none">
+              <a href="https://gochinaholidays.com/" class="text-decoration-none">
                 <div class="facility-card">
                   <div class="facility-image">
                     <img
@@ -164,7 +164,7 @@
             <div class="col-lg-4 col-md-4"
               data-aos="fade-up"
               data-aos-delay="200">
-              <a href="https://surfux.com" class="text-decoration-none">
+              <a href="https://gophilippinesholiday.com/" class="text-decoration-none">
                 <div class="facility-card">
                   <div class="facility-image">
                     <img
@@ -184,7 +184,7 @@
             <div class="col-lg-4 col-md-4"
               data-aos="fade-up"
               data-aos-delay="150">
-              <a href="https://surfux.com" class="text-decoration-none">
+              <a href="https://gochinaholidays.com/" class="text-decoration-none">
                 <div class="facility-card">
                   <div class="facility-image">
                     <img
@@ -204,7 +204,7 @@
             <div class="col-lg-4 col-md-4"
               data-aos="fade-up"
               data-aos-delay="250">
-              <a href="https://surfux.com" class="text-decoration-none">
+              <a href="#" class="text-decoration-none">
                 <div class="facility-card">
                   <div class="facility-image">
                     <img
@@ -223,7 +223,7 @@
             <div class="col-lg-4 col-md-4"
               data-aos="fade-up"
               data-aos-delay="250">
-              <a href="https://surfux.com" class="text-decoration-none">
+              <a href="#" class="text-decoration-none">
                 <div class="facility-card">
                   <div class="facility-image">
                     <img
